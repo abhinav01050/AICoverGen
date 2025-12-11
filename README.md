@@ -20,3 +20,9 @@ python src/webui1.py
 
 
 Open `http://127.0.0.1:7860`
+
+
+For uploading the rvc_models:
+python src/webuirvc.py
+
+Open `http://127.0.0.1:7860`
